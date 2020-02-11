@@ -47,6 +47,9 @@ class Database:
         return results
 
     def search_pages(self,term="",exact=False):
+        """ Made it return indexes of the materials
+        """
+      
         conn = sqlite3.connect(self.db_path)
         c = conn.cursor()
         if not exact:
@@ -63,7 +66,8 @@ class Database:
             for r in results:
                 print("\t".join(map(str,r[:])))
         conn.close()
-        #return results
+        return [r[0] for r in results]
+
 
     def search_id(self,pageid):
         info = self._get_page_info(pageid)
@@ -90,6 +94,8 @@ class Database:
             for r in results:
                 print(r)
         conn.close()
+        return [r[0] for r in results]
+
 
     def search_k(self,k,delta_k):
         print("*Search k =",k,"delta_k =",delta_k)
@@ -108,6 +114,8 @@ class Database:
             for r in results:
                 print(r)
         conn.close()
+        return [r[0] for r in results]
+
 
     def search_nk(self,n,delta_n,k,delta_k):
         print("*Search n =",n,"delta_n =",delta_n,"k =",k,"delta_k =",delta_k)
@@ -127,6 +135,8 @@ class Database:
             for r in results:
                 print(r)
         conn.close()
+        return [r[0] for r in results]
+
 
     def get_material(self, pageid):
         pagedata = self._get_page_info(pageid)
