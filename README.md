@@ -1,33 +1,9 @@
-# refractiveindex.info-sqlite
-Python 3 + SQLite wrapper for the [refractiveindex.info database](http://refractiveindex.info/) by [Mikhail Polyanskiy](https://github.com/polyanskiy).
+# Base de datos de propiedades ópticas de minerales
 
-Database files parsing was made with a modified version of `refractiveIndex.py` from [PyTMM project](https://github.com/kitchenknif/PyTMM) by [Pavel Dmitriev](https://github.com/kitchenknif).
+La primera capa está basada en [refractiveindex.info database](http://refractiveindex.info/) by [Mikhail Polyanskiy](https://github.com/polyanskiy).
 
-## Features
-- Create SQLite database from refractiveindex yml folder.
-- Create SQLite database from refractiveindex.zip url.
-- Search database pages by approximate or exact terms.
-- Search material data (refractiveindex, extinctioncoefficient) by intervals.
-- Execute custom SQL queries on the database.
-- Export material data (refractiveindex, extinctioncoefficient) to numpy arrays or csv files.
-- Get data (refractiveindex, extinctioncoefficient) at specified wavelengths.
+## TODOs
 
-## Usage
-Just copy the `refractivesqlite` folder to your project, and you are ready. For more information, see the [Tutorial notebook](Tutorial.ipynb)
-
-## Dependencies
-- python 3
-- numpy
-- scipy
-- pyyaml
-
-## Disclaimer
-Same as the refractiveindex.info webpage: *NO GUARANTEE OF ACCURACY - Use on your own risk*.
-
-## Version
-2019-08-05
-
----
-## Contributors
-- [tnorth](https://github.com/tnorth) (Implementation of formulas 4,7,8, and 9)
-- [p-tillmann](https://github.com/p-tillmann) (Update database format)
+* Elaborar una base de datos con pandas que contenga los datos que necesitamos
+* Filtrar minerales, ubicarlos en la base de datos y agfergar indices ordinarios y extraordinarios
+* Si es necesario agregar otras fuentes bibliográficas
