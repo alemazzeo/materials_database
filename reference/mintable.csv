@@ -1,0 +1,448 @@
+Identification Tables for Common Minerals in Thin Section
+"These tables provide a concise summary of the properties of a range of common minerals. Within the tables, minerals are arranged by colour so as to"
+"help with identification. If a mineral commonly has a range of colours, it will appear once for each colour."
+"To identify an unknown mineral, start by answering the following questions:"
+(1) What colour is the mineral?
+(2) What is the relief of the mineral?
+"(3) Do you think you are looking at an igneous, metamorphic or sedimentary rock?"
+"Go to the chart, and scan the properties. Within each colour group, minerals are arranged in order of increasing refractive index (which more or less"
+"corresponds to relief). This should at once limit you to only a few minerals. By looking at the chart, see which properties might help you distinguish"
+"between the possibilities. Then, look at the mineral again, and check these further details."
+Notes:
+"(i) Name: names listed here may be strict mineral names (e.g., andalusite), or group names (e.g., chlorite), or distinctive variety names (e.g., titanian augite). These tables contain a"
+"personal selection of some of the more common minerals. Remember that there are nearly 4000 minerals, although 95% of these are rare or very rare. The minerals in here probably"
+make up 95% of medium and coarse-grained rocks in the crust.
+"(ii) IMS: this gives a simple assessment of whether the mineral is common in igneous (I), metamorphic (M) or sedimentary (S) rocks. These are not infallible guides - in particular"
+"many igneous and metamorphic minerals can occur occasionally in sediments. Bear this in mind, even if minerals are not marked as being common in sediments."
+"(iii) Colour in TS etc: the range of colours for each mineral is given, together with a description of any pleochroism. Note that these are colours seen in thin-section, not hand-"
+specimen. The latter will always be much darker and more intense than thin section colours.
+"(iv) RI: the total range of refractive index shown by the mineral with this coulour is shown: This covers any range due to compositional variation by solid solution, as well as the two"
+or three refractive indices of anisotropic minerals.
+"(v) Relief : is described verbally, followed by a sign indicating whether the relief is positive or negative (ie greater or less than the mounting medium of the thin-section - 1.54)."
+"Minerals with refractive indices close to 1.54 have low relief, those with much higher or lower refractive indexes will have high relief."
+(vi) Extinction: angles are only given where minerals usually show a linear feature such as a cleavage and/or long crystal faces. For plagioclase feldspars (stippled) the extinction
+angles given are those determined by the Michel-Levy method (see a textbook for details).
+"(vi) Int. Figure: this gives details of the interference figure. Any numbers given refer to the value of 2V (normally a range is given), followed by the optic sign. For uniaxial minerals"
+"the word ""Uni"" is given, followed by the sign. Your course may or may not have covered interference figures. If not, ignore this section!"
+"(vii) Birefr: Birefringence is described verbally, In some cases the maximum is given as a colour, in other cases you will need to cross-refer to an interference colour chart."
+"(viii) Twinning etc.: a few notes about twinning, or other internal features of crystals may be given. If no twinning is mentioned, then the phenomenon is not common in thin section,"
+but this does not mean that it NEVER occurs.
+"(ix) Notes: general tips on appearance, occurrence and distinguishing features. May include indication of whether the mineral is length fast or slow - again a feature not covered in all"
+courses - but a useful and easily-determined property.
+John Faithfull 1998
+
+Mineral,IMS Colour in TS etc. RI,,,Relief,Extinction,,Int. Figure,Birefr.,Twinning etc.,Notes
+COLOURLESS,,,,,,,,,,
+fluorite,IS,"colourless, blueish 1.43or purple",,v. high -,,,,ISOTROPIC,,"Late mineral in granites - often purple due to radiation damage. Also a
+cement in sandstones. High -ve relief, colour and isotropy distinctive."
+analcime,I,colourless,1.49,mod -,,,-,vv weak,,"Usually in groundmass of dolerites and basalts filling spaces between
+plagioclase crystals. Colourless and nearly isotropic distinctive."
+"""orthoclase""",IMS colourless,,1.52-1.53,v.low -,,,"70, -ve","low: up to
+grey",Carlsbad (2 halves),Often turbid. May show patchy or thready perthitic texture.
+microcline,IMS colourless,,1.52-1.53,v.low -,,,"80, -ve","low: up to
+grey",cross-hatch,Twinning very distinctive.
+"albite
+(plagioclase)",IM,colourless,1.52-1.54,v.low +-,"-20 to -12
+(Michel-Levy)",,"70-80, +ve","low : up to
+cream","Albite twins along
+length, alsoCarlsbad + others","Common in low-grade meta. rocks with chlorite-muscovite-actinolite etc), and
+often clear and untwinned - can be very hard to identify. In igneous rocks
+usually twinned, as rims on more calcic plagioclase, or on perthite, or as a
+late replacement of other feldspars."
+oligoclase,IM,colourless,1.53-1.55,v.low +-,-12,to 12,"70-90, -ve",low: up to,Albite twins along,In igneous rocks often with biotite and K-feldspar. Also in low-med grade
+(plagioclase),,,,,(Michel-Levy),,or +ve,white,"length, also",meta rocks. Crystals in igneous rocks often rectangular laths. Often zoned:
+,,,,,,,,,Carlsbad + others,usually An-rich cores and Ab-rich rims. An-rich cores may alter more easily
+,,,,,,,,,,to sericite - a fine-grained turbid mica. Twinning distinctive - otherwise
+,,,,,,,,,,process of elimination.
+nepheline,I,colourless,1.53-1.55,v.low +-,0,,Uni -ve,"low: up to dk
+grey",,"Euhedral xls blocky: hexagons or rectangles, but only seen in lavas.
+Elsewhere anhedral. Often cloudy. May have highly briefr. alteration. Mostly
+in igenous rocks - v. scarce elsewhere."
+cordierite,M,colourless.,1.53-1.57,v.low - low +-,,,"40-80,",low : up to,sometimes radiating,Mostly found in low-pressure metapelites (eg hornfels). One of the hardest
+,,,,,,,mostly -ve,white,"hexagonal, striped,",minerals to identify - often looks like quartz or plagioclase. Twinning may
+,,,,,,,,,or untwinned.,"look like plag twinning in coarse grained rocks. Often has ""blebby"""
+,,,,,,,,,,inclusions. May have yellow pleochroic haloes around zircons etc. Tends to
+,,,,,,,,,,alter to darker coloured crud than plagioclase.
+andesine,IM,colourless,1.54 -1.56,v.low +,12-28,,"70-90, -ve",low : up to,Albite twins along,"In igneous rocks, often with hornblende, also in med-high grade meta rocks."
+(plagioclase),,,,,(Michel-Levy),,or +ve,pale grey,"length, also",Crystals in igneous rocks often rectangular laths. Often zoned: usually An-
+,,,,,,,,,Carlsbad + others,rich cores and Ab-rich rims. An-rich cores may alter more easily to sericite -
+,,,,,,,,,,a fine-grained turbid mica. Twinning distinctive - otherwise process of
+,,,,,,,,,,elimination.
+quartz,IMS colourless,,1.54-.155,v.low +,,,Uni +ve,"low : up to
+cream",rare,Usually irregular grains. Clear and unaltered. May show strained extinction.
+labradorite,IM,colourless,1.55-1.57,low +,28-39,,"70-90, -ve",low : up to,Albite twins along,In igneous rocks often with clinopyroxene and or olivine. Also in high-grade
+(plagioclase),,,,,(Michel-Levy),,or +ve,white,"length, also",meta rocks. Crystals in igneous rocks often rectangular laths. Often zoned:
+,,,,,,,,,Carlsbad + others,usually An-rich cores and Ab-rich rims. An-rich cores may alter more easily
+,,,,,,,,,,to sericite - a fine-grained turbid mica. Twinning distinctive - otherwise
+,,,,,,,,,,process of elimination.
+calcite,IMS colourless,,1.55-1.65,low to mod +,,,Uni -ve,"extreme.
+Pinky-buff",rhombic lamellae,"Relief usually changes as stage rotated. Hard to tell apart from other
+carbonates in thin section unless stained."
+bytowonite,IM,colourless,1.56-1.58,low +,40-52,,80-90 -ve,low : up to,Albite twins along,In igneous rocks often with clinopyroxene and or olivine. Also in high grade
+(plagioclase),,,,,(Michel-Levy),,,cream,"length, also",meta rocks. Crystals in igneous rocks often rectangular laths. Often zoned:
+,,,,,,,,,Carlsbad + others,usually An-rich cores and Ab-rich rims. An-rich cores may alter more easily
+,,,,,,,,,,to sericite - a fine-grained turbid mica. Twinning distinctive - otherwise
+,,,,,,,,,,process of elimination.
+muscovite,IMS colourless.,,1.56-1.61,low +,0,,"30-40, -ve","high: up to
+up. II order",,"flakes with 1 perfect cleavage. Habit and birefringence distinctive. In
+aluminous granites + many metamorphic rocks."
+"anorthite
+(plagioclase)",M,colourless,1.57-1.59,low +,"52+
+(Michel-Levy)",,80-90 -ve,"low : up to
+cream/yello
+w","Albite twins along
+length, also
+Carlsbad + others","Anorthite commoner in very high grade metamorphic rocks than in igneous
+rocks. Often zoned. Twinning distinctive."
+"tremolite
+(amphibole)",M,colourless,1.60-1.64,med +,ca.20,,"80-88, -ve","mod to high:
+up to mid IIorder.",,"Crystals usually elongate. Only found in carbonate-rich metamorphic rocks
+(eg marbles). End sections show 2 cleavages at 120 degrees, Long sections
+show 1 cleavage along length, Length slow."
+"anthophyllite
+(orthoamphibol
+e)",M,colourless,1.60-1.67,med +,0,,"70-90, +ve","mod: up to
+low II order",,"In Mg-rich meta rocks, esp. low-grade metabasites - often with talc. Like
+actinolite, but parallel extinction. Length slow. Amphibole cleavages on end
+sections: 120 deg."
+John Faithfull 1998,,,,,,,,,,
+
+Mineral,IMS Colour in TS etc,,RI,Relief,Extinction,Int. Figure,,Birefr.,Twinning etc.,Notes
+COLOURLESS (continued),,,,,,,,,,
+actinolite(amphibole),M,colourless to palegreen,1.60-1.70,med. +,10-20,"75-80, -ve",,"mod-high:up to mid II
+order",,"Crystals usually elongate. Lo-grade meta. rocks - esp. basic igneous rocks,
+or sediments containing basaltic detritus. End sections show 2 cleavages at
+120 degrees, Long sections show 1 cleavage along length. Length slow."
+apatite,IM,colourless.,1.63-1.65,mod +,0,Uni -ve,,low - grey,,"Usually as tiny elongate crystals with round or hexagonal outline. Shape,
+and birefringence distinctive. Length fast usually."
+andalusite,M,"colourless or v.
+pale pink(pleochroic)",1.63-1.66,mod-high +,0,"70-90, -ve",,"low: up to
+white.",,"Restricted to low-P metapelites. Crystals usually elongate, with nearly
+square X-section. ""chiastolite"" variety has cross-like inlcusions in end
+sections. Habit, low birefringence and straight extinction distinctive. Length
+fast."
+olivine,I,colourless,1.63-1.87,mod-high+,0,Mg rich: 80-,,high: up to,,Crystals often equant or rounded/granular with curving cracks and alteration
+,,,,,,"90 +ve, Fe",,"up. II order,",,"to colourless serpentine, or yellow or green clays. Commonest in basic and"
+,,,(Fe rich,,,rich,50-90 -,or III in Fe-,,"ultrabasic igneous rocks; also in meta marbles. Fe olivines rare, in granitic"
+,,,,,,,,,,"and syenitic rocks. Association, shape, lack of colour and cleavage, and"
+,,,higher),,,ve,,rich ones.,,birefringence distinctive.
+sillimanite,M,colourless,1.65-1.68,high +,0,"20-30, +ve",,"mod: up to
+mid II order.",,"Crystals usually finely acicular (""fibrolite"") - elongate. Restricted to high-
+grade metapelites. Length slow. Higher briefringence and relief than
+andalusite. ""Fibrolite"" especially associated with biotite."
+orthopyroxe,IM,colourless or pale,1.65-1.73,mod-high +,0,50-90 -ve,,low-mod: up,,"Commonest in basic and ultrabasic rocks, plus high-grade meta rocks (esp"
+ne,,green-red,,,,(very Mg-,,to I order,,"metabasites). End sections show 2 cleavages at ca. 90, otherwise 1 along"
+,,pleochroism,,,,rich ones,,red.,,"crystals. Length fast. Px cleavages, pleochroism, and low birefringence"
+,,,,,,,,,,diagnostic.
+,,,,,,+ve),,,,
+"diopside-augiteclinopyroxen
+e",IM,colourless or palebrownish orgreenish,1.66-1.76,high +,35-50,"50-70, +ve",,Mod -high:up to up. IIorder,"Not uncommon. Also Much solid soln and variation in properties. Almost always present in basicsector zoning. igneous rocks. Also in meta marbles, and in high grade metabasites.
+Association, birefringence and px cleavages (90 deg.) distinctive.",
+spinel,IM,"colourless, orbrown, green or
+black.",1.71- 1.8+,high +,,,,ISOTROPIC,,"Transparent spinels mainly in meta rocks: colourless ones in marbles,
+coloured ones in high-grade metapelites. Deep brown Cr-rich ones in basic
+and ultrabasic rocks. Equant grains, isotropic. May resemble garnet in TS,
+but rarer, and octahedral habit often seen."
+kyanite,M,colourless.,1.71-1.73,high +,"up to 30, butoften near 0","ca. 85, -ve",,low: up to Iorder yellow,Not uncommon.,"Moderate to high grade metapelites. Length slow. 2 cleavages at 85 often
+seen in long grains. May show marginal alteration to fine-grained muscovite
+etc. High relief, low-birefringence, association and cleavages distinctive."
+epidote,IM,colourless to,1.71-1.79,high +,usually 0,"60-90, -ve",,high: up to,,"In low grade metamorphic rocks, esp. metabasalts, and as accessory"
+,,yellow-green; may,,,,,,III order;,,mineral in granitic rocks. Often shows distinctively bright birefringence
+,,be weakly,,,,,,sometimes,,colours with patchy colour distribution. Frequently shows faint yellow tint
+,,,,,,,,,,(distinctive) in PPL.
+,,pleochroic,,,,,,anomalous,,
+,,,,,,,,blue.,,
+garnet,IM,colourless to,1.74-1.81,v. high +,,,,ISOTROPIC,,In wide range of meta rocks inlcuding marbles. Crystals rounded or equant -
+,,pinkish,for most,,,,,,,if well-formed may have 6 or 8 sides in thin section. May have zones or trails
+,,,colourless,,,,,,,"rich in inlcusions of quartz, biotite etc, which may show S or Z shapes."
+,,,,,,,,,,"Shape, isotropy, and relief distinctive."
+,,,garnets,,,,,,,
+titanite,IM,colourless or palebrown.,1.85-2.11,v. high +,,"17-40, +ve",,"extreme -pinky buff
+colours",Occasional.,"In intermediate and acid igneous rocks, and in many metabasites. Crystals
+common - often diamond-shaped rhombic X-sections seen. Extreme relief
+and birefringence distinctive. Low birefringent grains often don't extinguish
+properly and instead go from dull anomalous orange to dull blue."
+zircon,IM,colourless (usually) 1.92-2.01,,v. high +,0,Uni +ve,,"High: up to
+III order",,"crystals usually tiny or small. Often included in biotite - may produce
+pleochroic haloes. Birefr. Lower than titanite. In sediments rare detrital
+grains in quartzites and other v. mature sediments."
+John Faithfull 1998,,,,,,,,,,
+
+Name,IMS Colour in TS etc.,,RI,Relief,Extinction,Int. Figure,Birefr.,Twinning etc.,Notes
+GREEN,,,,,,,,,
+biotite,IM,pale to deep,1.54-1.64,mod +,0 to cleavage,0-25,High - partly,,Perfect mica cleavage in most sections.. Darkest when cleavage E-W.
+,,"greenish brown, or",,,,,masked by,,"Basal sections have no cleavage, low birefringence and little or no"
+,,brown.,,,,,deep colour,,pleochroism. Very common in igneous and meta rocks: rare in seds - easily
+,,,,,,,,,altered to chlorites & clays.
+,,Pleochroism,,,,,,,
+,,moderate to,,,,,,,
+,,strong.,,,,,,,
+chlorite,IM,usually pale green,1.57-1.68,low-mod +.,0-10 to,Often hard,v.low-low:,,"Very common in low grade metamorphic rocks, often with muscovite. Also"
+,,and weakly or non-,(usually,Rarely higher.,cleavage,to obtain.,up to grey.,,"as alteration product, esp. of biotite, in many rocks. Looks like a mica, but"
+,,pleochroic,1.57-1.60),,,,"Usually
+anomalous
+blue, purple,
+or brown.",,"rather low relief, pale green colour and low or anomalous birefringence
+distinctive."
+actinolite,M,pale bluish green -,1.61-1.65,mod +,10-20,"80-85, -ve",mod: up to,Not uncommon.,"Very common in low-grade metamorphic rocks. Elongate crystals, weak"
+(amphibole),,"colourless. More
+Fe-rich ones more
+green. May be
+weakly pleochroic.",,,,,mid II order,,"colour and pleochroism distinguishes from hornblende; epidote is more
+yellowish and has higher relief. Length slow."
+"""hornblende"" IM",,greenish to,1.61-1.7+,mod-high +,10-30,"50-80, -ve",mod: up to,Not uncommon.,Colour and pleochroism usually quite intense. Common in intermediate
+(amphibole),,"greenish brown or
+bluish green.
+Markedly
+pleochroic.",,,,,"mid II order.
+May be
+masked by
+colour.",,"igneous rocks, and in med. grade meta rocks, esp. metabasites. Colour of
+meta. hornblendes often correlated with grade: from bluish green to green to
+brownish with increasing grade. 2 cleavages at 120 deg on ends of xls; 1 on
+longer side sections."
+clinopyroxen,IM,Pale green-deep,1.66-1.76,mod-high +,variable,mostly 20-,mod-high:,Not uncommon.,Deeply coloured varieties (usually Na-rich) in alkaline rocks. Extinction
+e,,green and weaklyor non-pleochroic,,,,50.,up to up. IIorder.,,"angles higher, and birefringence lower than aegirine. Paler green varieties in
+igneous rocks, and in metamorphic rocks, may be Fe-rich or Cr-rich."
+orthopyroxe,IM,pale green to pink,1.67-1.73,mod-high +,0,"90-70, +ve",low: up to I,,Pleochroic ones usually -ve.
+ne,,pleochroism,,,,or -ve,order red,,
+spinel,IM,"green, brown or",1.71- 1.8+,high +,,-,ISOTROPIC,,"Transparent spinels mainly in meta rocks: colourless ones in marbles,"
+,,black. Neverpleochroic.,,,,,,,"coloured ones in high-grade metapelites. Deep brown Cr-rich ones in basic
+and ultrabasic rocks. Equant grains, isotropic. May resemble garnet in TS,
+but octahedral habit often seen."
+epidote,IM,greenish yellow -,1.71-1.79,high +,usually 0,"60-90, -ve",high: up to,,"In low grade metamorphic rocks, esp. metabasalts, and as accessory"
+,,"colourless and
+weakly pleochroic.",,,,,"III order;
+sometimes
+anomalous
+blue.",,"mineral in granitic rocks. Often shows distinctively bright birefringence
+colours with patchy colour distribution"
+aegirine,I,"green, with",1.74-1.83,high-v. high,0-6,"80-90, -ve",High: up to,,"Often acicular crystals, or rims on other green pyroxenes. High birefringence"
+"(clinopyroxe
+ne)",,"yellowish or
+brownish tints.
+Weakly to strongly
+pleochroic.",,,,,"III or IV
+order.",,and low extinction angle distinctive. Length fast (cf amphiboles)
+John Faithfull 1998,,,,,,,,,
+
+Name,IMS Colour in TS etc.,,RI,Relief,Extinction,Int. Figure,Birefr.,Twinning etc.,Notes
+YELLOW,,,,,,,,,
+tourmaline,IM,yellow to brown or,1.61-1.70,mod-high +,0,Uni -ve,mod-high:,,Accessory mineral in some B-rich meta rocks.. Pleochroic and darkest when
+,,blue pleochroic,,,,,"up to up II
+order.",,"N-S. Xls elongate with curved triangular x-sections. Often colour zoned.
+Length fast."
+epidote,IM,yellowish green -,1.71-1.79,high +,usually 0,"60-90, -ve",high: up to,,"In low grade metamorphic rocks, esp. metabasalts, and as accessory"
+,,"colourless and
+weakly pleochroic.",,,,,"III order;
+sometimes
+anomalous
+blue.",,"mineral in granitic rocks. Often shows distinctively bright birefringence
+colours with patchy colour distirbution"
+staurolite,M,pale yellow or,1.74-1.76,high +,0,80-90 +ve,low : up to I,"Common, but rarely","Restricted to metapelites. Usually as porphyroblasts, often with many quartz"
+,,"brownish yellow;
+weakly pleochroic",,,,,yellow,"visible in thin-
+section.","inclusions. Colour, relief and low birefringence distinctive."
+rutile,IM,deep golden,2.60-2.90,extreme +,0,"Uni, +","extreme, but",,Mainly seen in coarse-grained high-pressure metamorphic rocks (eg
+,,"yellow; to brown or
+black; may be
+opaque.",,,,,"masked by
+colour",,"eclogites, or kyanite-bearing). Also in other igneous and metamorphic rocks
+but often as tiny grains, or opaque. Extreme relief, intense colour and
+parallel extinction distinctive."
+John Faithfull 1998,,,,,,,,,
+
+Name,IMS Colour in TS etc.,,RI,Relief,Extinction,Int. Figure,Birefr.,Twinning etc.,Notes
+BROWN,,,,,,,,,
+biotite,IM,pale to deep,1.54-1.64,mod +,0,0-25,high: partly,,"Perfect mica cleavage in most sections.. Basal sections have no cleavage,"
+,,"brown, or greenish
+brown. Strongly
+pleochroic.",,,,,"masked by
+deep colour.",,"low birefringence and little or no pleochroism. Very common in igneous and
+meta rocks: rare in sediments - easily altered to chlorites and clays."
+tourmaline,IM,brown and blue or,1.61-1.70,mod-high+,0,Uni -ve,mod-high:,,"Pleochroic and darkest when N-S. Xls elongate or radiating, with curved"
+,,"yellow; markedly
+pleochroic.",,,,,"up to up II
+order.",,triangular x-sections. Often colour zoned. Length fast.
+brown,IM,Usually deep,1.61-1.76,mod-high +,0-30,"50-80, -ve",mod- high:,Not uncommon.,Wide range of compositions: Ti-rich ones in alkaline igneous rocks; Fe3+ -
+amphibole,,"brown - greenishbrown and strongly
+pleochroic",,,,,"up to IIIorder
+masked by
+deep colour",,"rich ones in andesites and basalts. High grade metamorphic amphiboles
+often brown. Usually less pleochroic than biotite and shows amphibole
+cleavages and habit: 2 cleavages at 120 deg on ends of xls; 1 on longerside sections."
+"augite,",I,pale purplish,1.69-1.74,high +,40-45,"ca. 60, +ve",mod: II,Not uncommon;,A major mineral in alkaline basaltic rocks. Deep coloured varieties often fail
+"titanian
+(clinopyroxe
+ne)",,"brown; may be
+very weakly
+pleochroic",,,,,"order;
+sometimes
+anomalous
+colours.","sector zoning
+common.","to extinguish properly and show anomalous bluish or reddish colours
+instead."
+spinel,IM,"colourless - brown,",1.71- 1.8+,high +,,,ISOTROPIC,,"Transparent spinels mainly in meta rocks: colourless ones in marbles,"
+,,"green or black.
+Never pleochroic.",,,,,,,"coloured ones in high-grade metapelites. Deep brown Cr-rich ones in basic
+and ultrabasic rocks. Equant grains, isotropic. May resemble garnet in TS,
+but octahedral habit often seen."
+garnet,I,pale yellowish-,1.85-1.89,v. high +,,,ISOTROPIC,,"Restricted to undersaturated rocks eg nepheline syenites, carbonatites and"
+(melanite),,"brown to deep
+brown (often colour
+zoned). Never
+pleochroic.",,,,,,,related rocks.
+titanite,IM,pale brown to,1.89-2.05,v. high +,,"17-40, +",extreme -,Occasional.,"In intermediate and acid igneous rocks, and in many metabasites. Crystals"
+,,"colourless. Rarely
+shows weak
+pleochroism.",,,,,"pinky buff
+colours",,"common - often diamond-shaped rhombic X-sections seen. Extreme relief
+and birefringence distinctive. Low birefringent grains often don't extinguish
+properly and instead go from dull anomalous orange to dull blue."
+rutile,IM,"brown to black, or",2.60-2.90,extreme +,0,"Uni, +","extreme, but",,Mainly seen in coarse-grained high-pressure metamorphic rocks (eg
+,,"deep goldenyellow; may be
+almost opaque.",,,,,masked bycolour,,"eclogites, or kyanite-bearing). Also in other igneous and metamorphic rocks
+but often as tiny grains, or opaque. Extreme relief, colour and parallel
+extinction distinctive."
+"PURPLE, LILAC or BLUE",,,,,,,,,
+fluorite,IS,bluish to purple or,1.43,v. high -,,,ISOTROPIC,,Often shows purple patches or zones due to radiation damage. 3 good
+,,colourless.,,,,,,,"cleavages may be seen at 60 deg, or 2 at 70 deg. As a late mineral in
+granites; also a cement in sandstones, or in voids in limestone. High -ve
+relief, colour and isotropy distinctive."
+glaucophane M,,blue to grey-blue or 1.60-1.67,,mod +,0-6,0-50 -ve.,mod: up to,,"Restricted to high P, low-T metamorphic rocks. Zoning common. Colour"
+-(amphibole),,lavender; weakly tostrongly pleochroic,,,,,low II order,,"completely distinctive. Length slow. Pale colours may be best seen
+examining TS by hand. Xls may have rims of more greenish actinolite or
+hornblende."
+tourmaline,IM,blue to brownish-,1.61-1.70,mod-high+,0,Uni -ve,mod-high:,,"Pleochroic and darkest when N-S. Xls elongate or radiating, with curved"
+,,"yellow, and
+markedly
+pleochroic",,,,,"up to up II
+order. May
+be masked
+by colour.",,"triangular x-sections. Often colour zoned. Length fast. In granites and
+metapelites."
+Na,I,inky blue-black to,1.61-1.71,mod - high +,usually < 30 to,variable -ve,Low-mod:,,Usually in igneous rocks: inlcudes riebeckite and arfvedsonite amphiboles.
+amphiboles,,"muddy brown;markedly
+pleochroic",,,long cleavage,or +ve.,"but maskedby intense
+colour.",,"Often poikilitic plates rather than euhedral xls. Intense inky blue colours
+completely distinctive."
+John Faithfull 1998,,,,,,,,,
+
+Name,IMS Colour in TS etc.,,RI,Relief,Extinction,Int. Figure,Birefr.,Twinning etc.,Notes
+RED or PINK,,,,,,,,,
+garnet,IM,"pinkish tocolourless. Never
+pleochroic.","1.74-1.82for red
+garnets",v. high +,,,ISOTROPIC,,"Pink garnets in metabasites and metapelites. Crystals rounded or equant - if
+well-formed may have 6 or 8 sides in thin section. May have zones or trails
+rich in inlcusions of quartz, biotite etc, which may show S or Z shapes.
+Shape, isotropy, and relief distinctive."
+"orthopyroxe
+ne",IM,"pale green-pink
+pleocroism",1.67-1.73,mod-high +,0,"90-70, +ve
+or -ve","low: up to I
+order yellowor red.",,"Pleochroic ones usually biaxial -ve. Pleochroism invisible to red-green
+colour blind persons. In tholeiitic basalts, andesites and plutonic equivalents,
+and in high-grade metabasites, or rarely pelites."
+hematite,IM,"may be deep
+blood-red, or
+opaque.",2.9-3.2,v. high +,"hard to see,",hard to see,hard to see,,"Normally opaque in TS - grains may be deep red on thin edges. Mainly in
+schists, and as secondary mineral in many other rocks."
+andalusite,M,"v. pale pink to
+colourless(pleochroic)",1.63-1.66,mod-high +,0,"70-90, -ve","low: up to
+white.",,"Restricted to low-P metapelites. Crystals usually elongate, with nearly
+square X-section. ""chiastolite"" variety has cross-like inclusions in end
+sections. Habit, low birefringence and straight extinction distinctive. Length
+fast."
+ALTERATION PRODUCTS,,,,,,,,,
+"""sericite""",IMS turbid pale greyishor pale brownish,,,,,,high: II-IIIorder,,"Fine grained mica replacing other aluminosilicates, esp. feldspars. Often in
+particular zones in plagioclases. Coarsens into muscovite-like flakes with
+high birefringence."
+"""iddingsite""",I,"deep yellow to
+yellow-brown",,,,,"high: II-III
+order",,"Deep yellow -brown highly birefringent replacement of olivine, esp. in lavas.
+May be overgrown by later fresh olivine."
+"""serpentine""",IM,colourless,,,,,"low: up to
+grey or
+white",,"Replaces olivine., often as network of veins or cracks. Association, very low
+relief and flaky, net-like or fibrous grey birefringence distinctive."
+"""uralite""",IM,pale green,,,,,"mod: up to
+mid II order",,"name given to fibrous pale green amphibole usually replacing pyroxene in
+altered igneous rocks. The overall shape of the igneous grains is preserved
+during replacement."
+"""leucoxene""",IM,"very intense turbid
+grey or greyish
+brown",,,,,"extreme, but
+hard to see
+due to fine
+grain size.",,"Always pseudomorphs Fe-Ti oxides, especially ilmenite. Occurs in altered
+dolerites and gabbros."
+"""limonite""","IMS deep brown, nearly -opaque",,,-,-,-,-,-,"Usually fine-grained very dark brown crud or stain around other Fe minerals,
+or filling cracks."
+John Faithfull 1998,,,,,,,,,
+
+Remember :the tables on previous pages give only a selection of the more common minerals. Brief properties of a few additional minerals are given below. You may
+wish to cross-reference these to fuller descriptions in your favourite textbook.
+Some additional colourless igneous minerals :
+"leucite: (feldspathoid) moderate -ve relief; very low dark grey birefringence shows complex twinning, a bit like microcline. Phenocrysts in ultra-potassic lavas. Once seen never"
+forgotten.
+sodalite: (feldspathoid) low-mod -ve relief. Isotropic. Euhedral xls or irreg. grains in Na-rich syenites and trachytes. Often blue in hand specimens.
+cancrinite: (feldspathoid) low-mod -ve relief. Irregular or slighly elongate grains with nepheline. Mod. Birefr: up to mid II order - bright for such an inconspicuous colourless
+mineral. Common minor phase in nepheline syenites.
+"sanidine: (feldspar) low -ve relief. Xls usually clear. Birefr. low: up to pale grey. Extinction parallel to cleavage, but not to long xl sides. 2V low: 0-12 -ve. Carlsbad twins"
+common. Usually phenocrysts in trachytes and rhyolites.
+anorthoclase: (feldspar) low -ve relief. Birefr. Low: up to pale grey. 2V 50 -ve (only feldspar like this); may show very fine grained cross-hatched twinning (like microcline).
+Phenocrysts in alkaline lavas etc.
+"melilite: mod +ve relief. Lath-like xls (like plagioclase shape), often with indented sides. Low birefr., often anomalous blue. Parallel extinction. Uniaxial -ve. In Si-deficient"
+"igneous rocks, with nepheline, augite, olivine, leucite, perovskite"
+"phlogopite: (mica) moderate +ve relief; platy, perfect cleavage; colourless to pale brown, slightly pleochroic. III order birefringence. Parallel extinction. Mostly in meta"
+"limestones, plus K-rich ultrabasic igneous rocks."
+wollastonite: mod-high +ve relief. Columnar or fibrous aggregates. Birefr up to I order orange. Extinction parallel (cf tremolite). Rare in igneous rocks: in carbonatites and
+some ijolites.
+"topaz: mod-high +ve relief. Usually anhedral in TS. Birefr like quartz, but 2V 50. 1 perfect cleavage. Granites and rhyolites, with tourmaline, fluorite and muscovite."
+"pigeonite: (clinopyroxene) mod-high +ve relief. Stout prismatic xls in tholeiitic basalts and andesites, also irregular grains in gabbros and dolerites. May invert to opx host with"
+cpx lamellae or blebs. Birefr. mod: up to II order. 2V low: 0-40 (distinctive). Often twinned. Extinction angle 20-40 to cleavage.
+"monazite: high +ve relief. Usually small or tiny stout prismatic xls looking like titanite. Birefr. Up to IV order, but may be very low due to radiation damage. Dispersion r < v"
+on isogyres (cf titanite r > v). In granites and carbonatites.
+Some additional colourless metamorphic minerals :
+scapolite: low-mod +ve relief. Columnar xls or poikilitic plates. Birefr. up to mid II order (high for an inconspicuous mineral). Extinction parallel to xls or cleavage. Uniaxial -
+ve. Metabasites and marbles.
+"talc: low-mod +ve relief. Looks like mica - perfect cleavage. High birefr. up to III order. Hard to tell from muscovite, but assocd with Mg rich minerals, and soapy in hand"
+specimen.
+"phlogopite: (mica) moderate +ve relief; platy, perfect cleavage; colourless to pale brown, slightly pleochroic. III order birefringence. Parallel extinction. Mostly in meta"
+"limestones, plus K-rich ultrabasic igneous rocks."
+"jadeite: (clinopyroxene) mod-high +ve. Granular or fibrous aggregates, or rough grains. Good xls very rare. Birefr, mod: up to mid II order. Extinction up to 44 to cleavage. 2V"
+70 +ve. In high-pressure (blueschist/eclogite facies) meta rocks.
+"lawsonite: Relief mod + ve. Often as late euhedral rhomb-shaped or rectangular porphyroblasts, often inlcusion rich, in blueschists. May resemble colourless epidote, bit lower"
+birefringence: up to mid II order.
+zoisite: (epidote group) relief high +ve. Elongate grains or aggregates. 1 cleavage along length. Parallel extinction. Normally shows deep blue anomalous interference colour. In
+metabasites and metacalcareous rocks.
+clinozoisite: (epidote group) relief high +ve. Elongate grains or aggregates. 1 cleavage along length. Parallel extinction. Birefringence anomalous: blue-grey and greenish
+"yellow (hard to describe, but easy to remember once seen). Mostly in metabasites and metacalcareous rocks."
+wollastonite:
+vesuvianite:
+siderite:
+John Faithfull 1998
+
+prehnite:
+pumpellyite:
+pectolite:
+zeolite:
+gypsum:
+barite:
+anhydrite:
+"corundum: Relief high to v. high +ve. Prismatic, tabular or skeletal crystals common. May have faint blue, yellow or pink zones. Rhombohedral parting/cleavage common."
+"Birefr. weak, but often up to low II order due to extra thickness of ultra-hard corundum xls. Parallel extinction in long xls. Twinning common. Uniaxial -ve. In hornfelses, high"
+grade pelites and syenitic gneisses.
+"green sediments: glauconite, chamosite"
+"green metamorphic: jadeite, pumpellyite, chloritoid"
+"brown igneous: perovskite, allanite"
+brown metamorphic: stilpnomelane
+"brown sediments: siderite, sphalerite"
+"yellow: monazite, siderite,corundum, piemontite"
+blue: corundum
+"red/pink: piemontite, corundum"
+opaques
+general guide to pyroxenes
+general guide to amphiboles
+"staining and carbonates (ferroan calcite, Mg-calcite, dolomite, aragonite etc..)."
+John Faithfull 1998
